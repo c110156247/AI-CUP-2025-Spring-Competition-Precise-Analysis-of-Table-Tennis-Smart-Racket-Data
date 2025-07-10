@@ -1,0 +1,1 @@
+# AI-CUP-2025-Spring-Competition---Precise-Analysis-of-Table-Tennis-Smart-Racket-Data
