@@ -6,3 +6,10 @@
 **由於Private leaderboard排名沒有在前30以內，不用完整的公開程式碼和使用資料，因此我只將部分程式碼放上來，後續會緩慢更新。**
 <img src="Wait.png" alt="等等" width="300"/>
 
+###### 1.Data processing(資料前處理)
+* train_data.py
+* test_data.py
+
+該檔案是將train/test_info.csv 與多個 txt 的六軸資料結合起來，展平成一筆大資料並存成新的 csv
+
+###### 2.xxxx(xxxxxx)
